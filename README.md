@@ -34,4 +34,4 @@ HTML/CSS – for generating HTML reports
 3. Place your train videos in the project root.
 4. Run the main script.
     python main.py
-5.Outp
+5.Output reports and extracted images will be saved in the output/ folder.
