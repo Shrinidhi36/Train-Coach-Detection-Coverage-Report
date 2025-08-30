@@ -29,9 +29,7 @@ HTML/CSS – for generating HTML reports
 
 **Setup instructions**
 1. Download the repositery.
-2. Install the required packages.
-   pip install opencv-python-headless numpy scipy reportlab tqdm ultralytics
+2. Install the required packages- pip install opencv-python-headless numpy scipy reportlab tqdm ultralytics
 3. Place your train videos in the project root.
-4. Run the main script.
-    python main.py
+4. Run the main script- python main.py
 5.Output reports and extracted images will be saved in the output/ folder.
